@@ -44,7 +44,7 @@ Este proyecto busca desarrollar un modelo de Machine Learning para predecir la e
    ```
 
 3. **Ejecutar los notebooks**:
-   Abre Jupyter Notebook y navega hasta el archivo `MODELO__(3).ipynb` para ejecutar el notebook principal.
+   Abre Jupyter Notebook y navega hasta el archivo `MODELO (3).ipynb` para ejecutar el notebook principal.
 
 ## Contribuciones
 
