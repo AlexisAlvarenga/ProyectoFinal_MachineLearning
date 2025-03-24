@@ -1,6 +1,14 @@
 # Proyecto Final de Samsung Innovation Campus
 
-Este proyecto forma parte del programa Samsung Innovation Campus y tiene como objetivo principal [describir brevemente el objetivo del proyecto].
+Este proyecto forma parte del programa Samsung Innovation Campus 
+
+## Descripcion del Proyecto
+
+Este Proyecto tiene como objetivo analizar y predecir la evolución del costo de los productos de la canasta básica en El Salvador, El costo de la canasta básica en El Salvador varía debido a factores como la inflación, costos de producción y políticas económicas, afectando la estabilidad financiera de muchas familias. Actualmente, no existen herramientas accesibles para prever estos cambios, lo que dificulta la planificación económica.
+
+## Planteamiento del Problema
+
+Este proyecto busca desarrollar un modelo de Machine Learning para predecir la evolución de precios de productos de la canasta básica esenciales, como el pan francés y el azúcar, a partir de datos históricos. La herramienta proporcionará estimaciones que ayuden a consumidores y autoridades a tomar mejores decisiones financieras y económicas
 
 ## Contenido del repositorio
 
@@ -14,7 +22,9 @@ Este proyecto forma parte del programa Samsung Innovation Campus y tiene como ob
 
 - **Lenguajes**: Python
 - **Herramientas**: Jupyter Notebook
-- **Librerías**: [Especificar las librerías principales utilizadas, por ejemplo, Pandas, NumPy, Scikit-learn]
+- **Librerías**:pandas, matplotlib, sklearn, Tensorflow,numpy
+
+
 
 ## Cómo ejecutar el proyecto
 
