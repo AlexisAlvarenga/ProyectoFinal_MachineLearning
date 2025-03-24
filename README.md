@@ -47,6 +47,6 @@ Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos:
 
 ## Licencia
 
-Este proyecto está bajo la licencia [Especificar licencia, por ejemplo, MIT](https://opensource.org/licenses/MIT).
+Este proyecto está bajo la licencia MIT (https://opensource.org/licenses/MIT).
 
 
